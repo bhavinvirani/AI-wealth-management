@@ -1,6 +1,6 @@
 <div align="center">
   <br>
-  <img alt="AI-wealth-management" src="public/logo.jpeg" width="200px">
+  <img alt="AI-wealth-management" src="https://github.com/user-attachments/assets/257342e0-6526-459f-9db7-750fd57f1b45" width="200px">
   <h1> AI-wealth-management </h1>
   <strong>💰 AI-powered wealth management web app—securely link multiple bank accounts, track transactions with receipt uploads, set budgets, and receive personalized AI-driven monthly reports based on past data.</strong>
 </div>
@@ -29,12 +29,13 @@
 
 This tech stack enables a **scalable, AI-powered wealth management** web app with **secure authentication, advanced analytics, and a seamless user experience.** 🚀
 
-![Dashboard](SCR-20250220-qhss.png)
-![Add new transactions](SCR-20250220-qhzu.png)
-![Graph](SCR-20250220-qhwg.png)
-![All transactions](SCR-20250220-qhxp.png)
-![Add bank account](SCR-20250220-qhqu.png)
-![Monthly Report](SCR-20250220-quuo.png)
+![Dashboard](<img width="1492" alt="SCR-20250220-qhss" src="https://github.com/user-attachments/assets/c2d51c48-f061-472a-a9d7-c66f6f5ed493" />)
+![Add new transactions](<img width="937" alt="SCR-20250220-qhzu" src="https://github.com/user-attachments/assets/687c9a38-d0da-4652-811c-f8a5fc3bdf5a" />)
+![Graph](<img width="1493" alt="SCR-20250220-qhwg" src="https://github.com/user-attachments/assets/0f1afcf5-89a3-459f-8da8-ceb8e678cc0d" />)
+![All transactions](<img width="1473" alt="SCR-20250220-qhxp" src="https://github.com/user-attachments/assets/83304098-ec55-421c-a7ea-b5089931e894" />)
+![Add bank account](<img width="1428" alt="SCR-20250220-qhqu" src="https://github.com/user-attachments/assets/13d78149-f652-4945-9489-f113bcd563f9" />)
+![Monthly Report](![SCR-20250220-quuo](https://github.com/user-attachments/assets/c5bc9f06-8635-47c2-962c-2a44c278ecdb))
+
 
 ## 🖥️ Local development
 
